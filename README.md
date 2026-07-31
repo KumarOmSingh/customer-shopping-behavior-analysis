@@ -34,7 +34,7 @@ An end-to-end data analytics project analyzing 3,900 retail transactions to unco
 | `assets/dashboard_screenshot.png` | Dashboard preview image (for quick viewing without Power BI) |
 | `Business_Problem_Document.pdf` | Business problem statement and deliverables |
 | `Customer_Shopping_Behavior_Analysis_Report.pdf` | Final project report |
-| `Customer-Shopping-Behavior-Analysis.pptx` | Stakeholder presentation deck |
+| `Customer_Shopping_Behavior_Analysis.pptx` | Stakeholder presentation deck |
 
 ## 🚀 How to Reproduce
 
